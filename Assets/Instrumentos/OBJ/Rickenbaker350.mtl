@@ -1,0 +1,143 @@
+newmtl Avory
+Kd 0.980392 0.960784 0.905882
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.755 0.755 0.755
+Ns 335
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Avory_Back
+Kd 0.980392 0.960784 0.905882
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.755 0.755 0.755
+Ns 335
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Avory_Logo
+Kd 0.980392 0.960784 0.905882
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.755 0.755 0.755
+Ns 335
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Black_Opaque
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BlackHB
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.425 0.425 0.425
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BlackMetal
+Kd 0 0 0
+Ke 0 0 0
+Ka 0.35 0.35 0.35
+Ks 0.4 0.4 0.4
+Ns 159
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BlackPlastic
+Kd 0.0666667 0.0666667 0.0666667
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.675 0.675 0.675
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Body
+Kd 0.0235294 0.0235294 0.0235294
+Ke 0 0 0
+Ka 3 3 3
+Ks 0.4 0.4 0.4
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Chrome
+Kd 0.784314 0.784314 0.862745
+Ke 0 0 0
+Ka 0.3 0.3 0.3
+Ks 0.35 0.35 0.35
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Gold
+Kd 0.94902 0.752941 0.337255
+Ke 0 0 0
+Ka 0.45 0.45 0.45
+Ks 0.4 0.4 0.4
+Ns 639
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Gum
+Kd 0.117647 0.117647 0.117647
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl handle
+Kd 0.4 0.2 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.9 0.9 0.9
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl String
+Kd 0.501961 0.501961 0.501955
+Ke 0 0 0
+Ka 0.4 0.4 0.4
+Ks 0.5 0.5 0.5
+Ns 639
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+

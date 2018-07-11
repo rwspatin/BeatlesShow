@@ -1,0 +1,206 @@
+newmtl Black_Opaque
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BlackPickup
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.405 0.405 0.405
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BlackPlastic
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.405 0.405 0.405
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BlackWood
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.9 0.9 0.9
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Border
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BT
+Kd 1 0.980392 0.85098
+Ke 0 0 0
+Ka 3 3 3
+Ks 0.4 0.4 0.4
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BTFront
+Kd 1 1 1
+Ke 0 0 0
+Ka 3 3 3
+Ks 0.4 0.4 0.4
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd F:Dede/HofnerBassLWO.zip/Hofner.jpg
+
+newmtl Chrome
+Kd 0.784314 0.784314 0.862745
+Ke 0 0 0
+Ka 0.3 0.3 0.3
+Ks 0.35 0.35 0.35
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Controls
+Kd 1 1 1
+Ke 0 0 0
+Ka 3 3 3
+Ks 0.4 0.4 0.4
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd F:Dede/HofnerBassLWO.zip/Hofner.jpg
+
+newmtl Gold
+Kd 0.94902 0.752941 0.337255
+Ke 0 0 0
+Ka 0.45 0.45 0.45
+Ks 0.4 0.4 0.4
+Ns 639
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PalettaFront
+Kd 1 1 1
+Ke 0 0 0
+Ka 3 3 3
+Ks 0.4 0.4 0.4
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd F:Dede/HofnerBassLWO.zip/Hofner.jpg
+
+newmtl PlasticWhite
+Kd 1 1 1
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 0.3 0.3 0.3
+Ns 159
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl String
+Kd 0.501961 0.501961 0.501955
+Ke 0 0 0
+Ka 0.4 0.4 0.4
+Ks 0.5 0.5 0.5
+Ns 639
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl WoodBack
+Kd 1 1 1
+Ke 0 0 0
+Ka 3 3 3
+Ks 0.4 0.4 0.4
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd F:Dede/HofnerBassLWO.zip/Hofner.jpg
+
+newmtl WoodFront
+Kd 1 1 1
+Ke 0 0 0
+Ka 3 3 3
+Ks 0.4 0.4 0.4
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd F:Dede/HofnerBassLWO.zip/Hofner.jpg
+
+newmtl WoodKey
+Kd 1 1 1
+Ke 0 0 0
+Ka 3 3 3
+Ks 0.4 0.4 0.4
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd F:Dede/HofnerBassLWO.zip/Hofner.jpg
+
+newmtl WoodLateral
+Kd 1 1 1
+Ke 0 0 0
+Ka 3 3 3
+Ks 0.4 0.4 0.4
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd F:Dede/HofnerBassLWO.zip/Hofner.jpg
+
+newmtl WoodNeck
+Kd 1 1 1
+Ke 0 0 0
+Ka 3 3 3
+Ks 0.4 0.4 0.4
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd F:Dede/HofnerBassLWO.zip/Hofner.jpg
+

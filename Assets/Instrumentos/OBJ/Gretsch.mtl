@@ -1,0 +1,213 @@
+newmtl Avory
+Kd 1 0.952941 0.807843
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl AvoryBt
+Kd 1 0.952941 0.807843
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd F:Dede/Gretsch Guitar Model/Gretsch.jpg
+
+newmtl BlackOpaque
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BlackPickup
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BlackPlastic
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Border
+Kd 1 0.952941 0.807843
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Button
+Kd 0.94902 0.752941 0.337255
+Ke 0 0 0
+Ka 0.45 0.45 0.45
+Ks 0.4 0.4 0.4
+Ns 639
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Chrome
+Kd 0.784314 0.784314 0.862745
+Ke 0 0 0
+Ka 0.3 0.3 0.3
+Ks 0.35 0.35 0.35
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Gold
+Kd 0.94902 0.752941 0.337255
+Ke 0 0 0
+Ka 0.45 0.45 0.45
+Ks 0.4 0.4 0.4
+Ns 639
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Goldscrew
+Kd 0.94902 0.752941 0.337255
+Ke 0 0 0
+Ka 0.45 0.45 0.45
+Ks 0.4 0.4 0.4
+Ns 639
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PonteRetro
+Kd 0.784314 0.784314 0.862745
+Ke 0 0 0
+Ka 0.3 0.3 0.3
+Ks 0.35 0.35 0.35
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump F:Dede/Gretsch Guitar Model/Gretsch.jpg
+bump F:Dede/Gretsch Guitar Model/Gretsch.jpg
+
+newmtl String
+Kd 0.501961 0.501961 0.501955
+Ke 0 0 0
+Ka 0.4 0.4 0.4
+Ks 0.5 0.5 0.5
+Ns 639
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Wood-Action
+Kd 0.0588235 0.027451 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.205 0.205 0.205
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Wood-Bridge
+Kd 0.27451 0.137255 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.205 0.205 0.205
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Wood-Neck
+Kd 0.176471 0 0.0862745
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.4 0.4 0.4
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Wood1Back
+Kd 0.176471 0 0.0862745
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.4 0.4 0.4
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Wood1Front
+Kd 0.176471 0 0.0862745
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.4 0.4 0.4
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Wood1Lateral
+Kd 0.176471 0 0.0862745
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.4 0.4 0.4
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl WoodBlack
+Kd 0.0588235 0.027451 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.205 0.205 0.205
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd F:Dede/Gretsch Guitar Model/Gretsch.jpg
+

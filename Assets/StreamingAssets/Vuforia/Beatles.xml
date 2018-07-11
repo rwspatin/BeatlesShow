@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="wd" size="5.000000 5.000000" />
+    <ImageTarget name="RS3" size="5.000000 5.839416" />
+    <ImageTarget name="PM3" size="5.000000 5.839416" />
+    <ImageTarget name="JL3" size="5.000000 5.839416" />
+    <ImageTarget name="IT" size="5.000000 5.839416" />
+    <ImageTarget name="YS3" size="5.000000 5.839416" />
+    <ImageTarget name="GH3" size="5.000000 5.839416" />
+    <ImageTarget name="YS2" size="5.000000 5.839416" />
+    <ImageTarget name="RS2" size="5.000000 5.839416" />
+    <ImageTarget name="PM2" size="5.000000 5.839416" />
+    <ImageTarget name="JL2" size="5.000000 5.839416" />
+    <ImageTarget name="GH2" size="5.000000 5.839416" />
+    <ImageTarget name="ST" size="5.000000 5.178571" />
+    <ImageTarget name="JL" size="5.000000 6.024590" />
+    <ImageTarget name="YS" size="5.000000 6.024590" />
+    <ImageTarget name="RS" size="5.000000 6.024590" />
+    <ImageTarget name="PM" size="5.000000 6.024590" />
+    <ImageTarget name="GH" size="5.000000 6.024590" />
+  </Tracking>
+</QCARConfig>

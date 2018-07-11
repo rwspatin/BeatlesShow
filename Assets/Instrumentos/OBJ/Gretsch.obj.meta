@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 71529140bd6e2f04b943c2f553cb8ca6
+timeCreated: 1500986249
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Avory
+    100002: AvoryBt
+    100004: BlackOpaque
+    100006: BlackPickup
+    100008: BlackPlastic
+    100010: Border
+    100012: Button
+    100014: Chrome
+    100016: Gold
+    100018: Goldscrew
+    100020: //RootNode
+    100022: PonteRetro
+    100024: String
+    100026: Wood-Action
+    100028: Wood-Bridge
+    100030: Wood-Neck
+    100032: Wood1Back
+    100034: Wood1Front
+    100036: Wood1Lateral
+    100038: WoodBlack
+    400000: Avory
+    400002: AvoryBt
+    400004: BlackOpaque
+    400006: BlackPickup
+    400008: BlackPlastic
+    400010: Border
+    400012: Button
+    400014: Chrome
+    400016: Gold
+    400018: Goldscrew
+    400020: //RootNode
+    400022: PonteRetro
+    400024: String
+    400026: Wood-Action
+    400028: Wood-Bridge
+    400030: Wood-Neck
+    400032: Wood1Back
+    400034: Wood1Front
+    400036: Wood1Lateral
+    400038: WoodBlack
+    2300000: Avory
+    2300002: AvoryBt
+    2300004: BlackOpaque
+    2300006: BlackPickup
+    2300008: BlackPlastic
+    2300010: Border
+    2300012: Button
+    2300014: Chrome
+    2300016: Gold
+    2300018: Goldscrew
+    2300020: PonteRetro
+    2300022: String
+    2300024: Wood-Action
+    2300026: Wood-Bridge
+    2300028: Wood-Neck
+    2300030: Wood1Back
+    2300032: Wood1Front
+    2300034: Wood1Lateral
+    2300036: WoodBlack
+    3300000: Avory
+    3300002: AvoryBt
+    3300004: BlackOpaque
+    3300006: BlackPickup
+    3300008: BlackPlastic
+    3300010: Border
+    3300012: Button
+    3300014: Chrome
+    3300016: Gold
+    3300018: Goldscrew
+    3300020: PonteRetro
+    3300022: String
+    3300024: Wood-Action
+    3300026: Wood-Bridge
+    3300028: Wood-Neck
+    3300030: Wood1Back
+    3300032: Wood1Front
+    3300034: Wood1Lateral
+    3300036: WoodBlack
+    4300000: Avory
+    4300002: AvoryBt
+    4300004: BlackOpaque
+    4300006: BlackPickup
+    4300008: BlackPlastic
+    4300010: Border
+    4300012: Button
+    4300014: Chrome
+    4300016: Gold
+    4300018: Goldscrew
+    4300020: PonteRetro
+    4300022: String
+    4300024: Wood-Action
+    4300026: Wood-Bridge
+    4300028: Wood-Neck
+    4300030: Wood1Back
+    4300032: Wood1Front
+    4300034: Wood1Lateral
+    4300036: WoodBlack
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

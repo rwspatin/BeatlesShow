@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 81fec10c43ed4a643a6a11e7ad4ca6ba
+timeCreated: 1500986272
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Avory
+    100002: Avory_Back
+    100004: Avory_Logo
+    100006: Black_Opaque
+    100008: BlackHB
+    100010: BlackMetal
+    100012: BlackPlastic
+    100014: Body
+    100016: Chrome
+    100018: Gold
+    100020: Gum
+    100022: handle
+    100024: //RootNode
+    100026: String
+    400000: Avory
+    400002: Avory_Back
+    400004: Avory_Logo
+    400006: Black_Opaque
+    400008: BlackHB
+    400010: BlackMetal
+    400012: BlackPlastic
+    400014: Body
+    400016: Chrome
+    400018: Gold
+    400020: Gum
+    400022: handle
+    400024: //RootNode
+    400026: String
+    2300000: Avory
+    2300002: Avory_Back
+    2300004: Avory_Logo
+    2300006: Black_Opaque
+    2300008: BlackHB
+    2300010: BlackMetal
+    2300012: BlackPlastic
+    2300014: Body
+    2300016: Chrome
+    2300018: Gold
+    2300020: Gum
+    2300022: handle
+    2300024: String
+    3300000: Avory
+    3300002: Avory_Back
+    3300004: Avory_Logo
+    3300006: Black_Opaque
+    3300008: BlackHB
+    3300010: BlackMetal
+    3300012: BlackPlastic
+    3300014: Body
+    3300016: Chrome
+    3300018: Gold
+    3300020: Gum
+    3300022: handle
+    3300024: String
+    4300000: Avory
+    4300002: Avory_Back
+    4300004: Avory_Logo
+    4300006: Black_Opaque
+    4300008: BlackHB
+    4300010: BlackMetal
+    4300012: BlackPlastic
+    4300014: Body
+    4300016: Chrome_MeshPart0
+    4300018: Gold
+    4300020: Gum
+    4300022: handle
+    4300024: String
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,159 @@
+newmtl Black_Opaque
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.035 0.035 0.035
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BlackPlastic
+Kd 0 0 0
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 0.3 0.3 0.3
+Ns 159
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Chrome
+Kd 0.784314 0.784314 0.862745
+Ke 0 0 0
+Ka 0.3 0.3 0.3
+Ks 0.35 0.35 0.35
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl FrontVinil
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd F:Dede/VOX AC 100 Guitar AMP/vOXac100FRONT.jpg
+
+newmtl Gum
+Kd 0.211765 0.207843 0.207843
+Ke 0 0 0
+Ka 0.95 0.95 0.95
+Ks 0.3 0.3 0.3
+Ns 159
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl InternalVinil
+Kd 0.75 0.75 0.75
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.12 0.12 0.12
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd F:Dede/VOX AC 100 Guitar AMP/VOXac100mK2.jpg
+
+newmtl Manopole
+Kd 0 0 0
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 0.3 0.3 0.3
+Ns 159
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl MetalPanel
+Kd 0 0.501961 0.752941
+Ke 0 0 0
+Ka 0.35 0.35 0.35
+Ks 0.4 0.4 0.4
+Ns 159
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PlasticWhite
+Kd 1 1 1
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 0.3 0.3 0.3
+Ns 159
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl RedLight
+Kd 1 0 0
+Ke 0.845 0.845 0.845
+Ka 1 1 1
+Ks 0.19 0.19 0.19
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Vinil
+Kd 0.75 0.75 0.75
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.12 0.12 0.12
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd F:Dede/VOX AC 100 Guitar AMP/VOXac100mK2.jpg
+
+newmtl Vinil1
+Kd 0.75 0.75 0.75
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.12 0.12 0.12
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd F:Dede/VOX AC 100 Guitar AMP/VOXac100mK2.jpg
+
+newmtl VinilVox1
+Kd 0.75 0.75 0.75
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.12 0.12 0.12
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd F:Dede/VOX AC 100 Guitar AMP/VOXac100mK2.jpg
+
+newmtl VoxLogo
+Kd 0.784314 0.784314 0.862745
+Ke 0 0 0
+Ka 0.3 0.3 0.3
+Ks 0.35 0.35 0.35
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
